@@ -1,0 +1,72 @@
+.navbar-brand {
+text-transform: uppercase;
+font-family: 'Karla', sans-serif;
+font-size: 40px;
+}
+.nav-link {
+font-size:20px;
+margin-right:30px;
+}
+.container {
+	margin:10px 100px;
+}
+.photo1 {
+background-image: url('../img/bigben.jpg');
+color:#000;
+}
+.photo2 {
+background-image: url('../img/hotel1.jpg');
+}
+.photo3 {
+background-image: url('../img/certificate.jpg');
+color:white;
+}
+.card-name, .first-post {
+font-family: 'Nanum Myeongjo', serif;
+font-size: 30px;
+}
+body {
+background-color:#fff;
+}
+.jumbotron {
+background-color:##7fb3d5;
+}
+.card-deck {
+	margin:10px 100px;
+}
+.card {
+	min-width:300px;
+	height:400px;
+	margin-top:30px;
+}
+.card-name {
+	margin-left:120px;
+}
+.list-unstyled {
+ margin-top:100px;
+}
+.media {
+margin-bottom:70px;
+}
+.mr-3 {
+border-radius: 40%;
+}
+.text-center {
+text-transform: uppercase;
+font-family: 'Nanum Myeongjo', serif;
+}
+footer {
+background-color: #f0f0f0;
+padding:40px 0;
+color:#000000;
+}
+.footer-left a {
+color:#000000;
+margin-right: 20px;
+font-size:20px;
+}
+.footer-right a {
+color:#626262;
+margin-left: 20px;
+font-size:20px;
+}
